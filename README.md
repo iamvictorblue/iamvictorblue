@@ -11,7 +11,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=iamvictorblue&style=flat-square) -->
 
 
-## 💡 About
+## 💡About
 <a href="https://github.com/iamvictorblue">
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iamvictorblue&show_icons=true&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A">
   <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvictorblue&currStreakLabel=E6DFB8&sideLabels=cddbf9&currStreakNum=caf6bb&sideNums=E6DFB8&dates=E6DFB8&ring=cddbf9&fire=cddbf9&stroke=caf6bb&background=20202A">
