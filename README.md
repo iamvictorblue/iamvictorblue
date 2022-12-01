@@ -1,5 +1,4 @@
-# Welcome to my GitHub! 
-<img src="https://raw.githubusercontent.com/iamvictorblue/iamvictorblue/master/victorbluelogotwist.gif" width="80px">
+# Welcome to my GitHub! <img src="https://raw.githubusercontent.com/iamvictorblue/iamvictorblue/master/victorbluelogotwist.gif" width="70px" height="50px">
 
 <a target="_blank" href="https://www.linkedin.com/in/victor-hernandez-7a9859127/" target="_blank">
    <img alt="LinkedIn - Pikachu" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
