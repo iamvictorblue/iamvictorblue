@@ -26,7 +26,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/iamvictorblue/count.svg)
 
-## 👻 Tech 
+## 👻  Tech 
 
 <h4 align="center">Editors</h4>
 
@@ -77,7 +77,7 @@
 
 </br>
 
-⚙️ Here are a bunch of notable projects I've managed to fully complete. Expect more soon!
+## ⚙️ Projects 
 
 Project                        |Technology        |Theme                | Location
 -----------                    | --------         | --------            | --------
