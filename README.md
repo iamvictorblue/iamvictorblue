@@ -3,7 +3,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/victor-hernandez-7a9859127/" target="_blank">
    <img alt="LinkedIn - Pikachu" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1/overlay/1635486540638/single-media-viewer?type=DOCUMENT&profileId=ACoAADiUnqoB1g2S1FtRImZZc1P7vKeePkFoXcA&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvI3EmVJlTLWliG7dEPZNKg%3D%3D" target="_blank">
+<a target="_blank" href="https://www.linkedin.com/in/victor-hernandez-7a9859127/overlay/1635509763984/single-media-viewer/" target="_blank">
    <img alt="Resume Link" src="https://img.shields.io/badge/Resume-7394a0?logo=academia&style=for-the-badge" />
 </a>
 
@@ -13,9 +13,9 @@
 
 ## 💡 About
 <a href="https://github.com/iamvictorblue">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=FrenzyExists&show_icons=true&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A">
-  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=FrenzyExists&currStreakLabel=E6DFB8&sideLabels=cddbf9&currStreakNum=caf6bb&sideNums=E6DFB8&dates=E6DFB8&ring=cddbf9&fire=cddbf9&stroke=caf6bb&background=20202A">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="frenzystreaks" />
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iamvictorblue&show_icons=true&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A">
+  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvictorblue&currStreakLabel=E6DFB8&sideLabels=cddbf9&currStreakNum=caf6bb&sideNums=E6DFB8&dates=E6DFB8&ring=cddbf9&fire=cddbf9&stroke=caf6bb&background=20202A">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvictorblue&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="frenzystreaks" />
 </a>
 
 - 📓 I'm a 4th Year Computer Engineering Undergraduate student at University of Puerto Rico - Mayaguez.
