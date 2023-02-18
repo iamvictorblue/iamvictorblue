@@ -38,6 +38,9 @@
    <a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1-74aaa6225" target="_blank">
       <img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-60a57e.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
    </a>
+   <a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1-74aaa6225" target="_blank">
+      <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+   </a>
 </h3>
 
 <h4 align="center">Programming Languages - Frameworks - Schemas - Deployment</h4>
