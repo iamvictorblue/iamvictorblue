@@ -47,6 +47,15 @@
       <img alt="Java" src="https://img.shields.io/badge/Java-d18968.svg?&style=for-the-badge&logo=java&logoColor=white" />
    </a>
    <a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1-74aaa6225" target="_blank">
+      <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+   </a>
+   <a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1-74aaa6225" target="_blank">
+      <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+   </a>
+   <a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1-74aaa6225" target="_blank">
+      <img alt="Blazor" src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" />
+   </a>
+   <a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1-74aaa6225" target="_blank">
       <img alt="Python" src="https://img.shields.io/badge/Python-32376b.svg?&style=for-the-badge&logo=python&logoColor=white" />
    </a>
    <a target="_blank" href="https://www.linkedin.com/in/pikachu-%E2%9A%A1-74aaa6225" target="_blank">
