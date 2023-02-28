@@ -26,7 +26,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/iamvictorblue/count.svg)
 
-## 👻  Tech 
+## 👻 IDE/PL Experience 
 
 <h4 align="center">Editors</h4>
 
