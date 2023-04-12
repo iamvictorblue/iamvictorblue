@@ -91,12 +91,12 @@
 
 ## ⚙️ Projects 
 
-Project                        |Technology        |Theme                | Location
------------                    | --------         | --------            | --------
-TSP Using RL                   |Python            | App/Scrimba         | https://github.com/iamvictorblue/TSP-for-Cities-in-Puerto-Rico
-PR Music Demo                  |C#/SQL/Blazor     | Uni/CLI             | https://github.com/iamvictorblue/PR-Music-Demo
-Victor Blue Website            |HTML/CSS/JS       | App/Scrimba         | https://github.com/iamvictorblue/Victor-Blue-Website
-Four Unlimited                 |Python            | Utility/Embeded     | https://github.com/iamvictorblue/Four-Unlimited
+Project                        |Technology        | Location
+-----------                    | --------         | --------
+TSP Using RL                   |Python            | https://github.com/iamvictorblue/TSP-for-Cities-in-Puerto-Rico
+PR Music Demo                  |C#/SQL/Blazor     | https://github.com/iamvictorblue/PR-Music-Demo
+Victor Blue Website            |HTML/CSS/JS       | https://github.com/iamvictorblue/victorblue-v2
+Four Unlimited                 |Python            | https://github.com/iamvictorblue/Four-Unlimited
 
   
 
