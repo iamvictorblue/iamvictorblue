@@ -18,11 +18,11 @@
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvictorblue&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="frenzystreaks" />
 </a>
 
-- 📓 I'm a 4th Year Computer Engineering Undergraduate student at University of Puerto Rico - Mayaguez.
+- 📓 I'm a 5th Year Computer Engineering Undergraduate student at University of Puerto Rico - Mayaguez.
 
 - 🐈 Here you can see all of my repos and the projects I'm currently working on.
 
-- 🤖 Programming experience in Python, CSS, HTML, SQL, Blazor, JS, Java, MATLAB, HTML, C# and C++.
+- 🤖 Programming experience in Python, Angular, CSS, HTML, SQL, Blazor, JS, Java, MATLAB, React, C# and C++.
 
 ![Visitor Count](https://profile-counter.glitch.me/iamvictorblue/count.svg)
 
