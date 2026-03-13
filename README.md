@@ -24,7 +24,6 @@
 
 - 🤖 Programming experience in Python, Angular, CSS, HTML, SQL, Blazor, JS, Java, MATLAB, React, C# and C++.
 
-![Visitor Count](https://profile-counter.glitch.me/iamvictorblue/count.svg)
 
 ## 👻 IDE/PL Experience 
 
