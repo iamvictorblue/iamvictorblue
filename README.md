@@ -166,8 +166,8 @@ Mobile app for managing book collections, built with React Native.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamvictorblue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvictorblue&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamvictorblue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamvictorblue&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9" />
 
 <br/>
 
@@ -177,9 +177,9 @@ Mobile app for managing book collections, built with React Native.
 
 ---
 
-<!-- Trophies -->
+<!-- Streak stats -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamvictorblue&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=15" alt="GitHub Trophies" />
+  <img width="55%" src="https://streak-stats.demolab.com/?user=iamvictorblue&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" />
 </div>
 
 ---
